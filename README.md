@@ -49,23 +49,40 @@ Entre elas:
 
 A ideia deste repositório é funcionar como um **portfólio das atividades da disciplina**, organizando os projetos conforme as aulas forem realizadas.
 
-```text
-front-end/
-│
-├── Aula 01/
-│   ├── Front End Aula 1
-│   └── Jogo da Velha
-│
-├── Aula 02/
-│   └── ...
-│
-├── Aula 03/
-│   └── ...
-│
-└── README.md
-```
+### 🟢 Aula 02 — React
+
+**Data:** 12/08/2026
+
+Nesta aula foi desenvolvido um projeto utilizando **React**, colocando em prática conceitos de desenvolvimento Front End com componentes e organização de uma aplicação.
+
+#### 🎮 Atividade — Jogo de Palavras
+
+Foi desenvolvido um **Jogo de Palavras** utilizando React como atividade prática da aula.
+
+O projeto foi desenvolvido com o objetivo de praticar a criação de interfaces interativas, organização dos componentes e utilização dos recursos do React.
+
+🔗 [Acessar código do projeto no GitHub](https://github.com/edilainesolde2024-blip/react)
+
+🚀 [Acessar projeto publicado na Vercel](https://vercel.com/solde1/react-aula2/BhgmMpm7XQS4eMGVjecFKfSpP3er)
 
 ---
+
+**Tecnologias utilizadas:**
+
+* React
+* JavaScript
+* HTML
+* CSS
+* Git
+* GitHub
+* Vercel
+
+---
+
+**Projeto:** Jogo de Palavras
+**Repositório:** [react](https://github.com/edilainesolde2024-blip/react)
+**Deploy:** [Vercel](https://vercel.com/solde1/react-aula2/BhgmMpm7XQS4eMGVjecFKfSpP3er)
+
 
 ## 🎯 Objetivo
 
