@@ -50,6 +50,8 @@ Estudante de Análise e Desenvolvimento de Sistemas — UniSenai — 2026
 
 🔗 [GitHub](https://github.com/edilainesolde2024-blip)
 
+🔗 [LinkedIn](https://www.linkedin.com/in/edilaine-paulino)
+
 ---
 
 ⭐ **Repositório em construção — novas atividades serão adicionadas conforme o andamento da disciplina.**
