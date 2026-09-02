@@ -1,94 +1,44 @@
-# 💻 Atividades de Front End
+# 💻 Front-end — Resumo das Aulas
 
-Repositório destinado ao registro e organização das atividades desenvolvidas durante as aulas da disciplina de **Front End**.
+Repositório destinado ao registro e organização das atividades desenvolvidas durante a disciplina de **Front-end** - 2º semestre de 2026
 
-As atividades serão adicionadas aula a aula, permitindo acompanhar a evolução dos projetos e dos conhecimentos adquiridos ao longo da disciplina.
-
----
-
-## 📚 Atividades por Aula
-
-### 🟣 Aula 01 — Introdução ao Front End
-
-**Data:** 05/08/2026
-
-Nesta aula foram apresentados os conceitos iniciais da disciplina, ferramentas utilizadas no desenvolvimento Front End e atividades práticas para colocar os primeiros conhecimentos em prática.
-
-#### 🎮 Atividade 01 — Projeto Front End
-
-Repositório com os arquivos e atividades desenvolvidos durante a primeira aula:
-
-🔗 [Acessar projeto — Front End Aula 1](https://github.com/edilainesolde2024-blip/front-end-aula1)
-
-#### ❌⭕ Atividade 02 — Jogo da Velha
-
-Desenvolvimento de um **Jogo da Velha** utilizando tecnologias Front End.
-
-O projeto foi criado como atividade prática para exercitar a estruturação da página e a interação com o usuário.
-
-🔗 [Acessar projeto — Jogo da Velha](https://github.com/edilainesolde2024-blip/velha-x)
+|  Aula  | Conteúdo                                                |                                                 PDF                                                 | Projeto                                |                                                                        Repositório                                                                       |                                                    Deploy                                                    |
+| :----: | ------------------------------------------------------- | :-------------------------------------------------------------------------------------------------: | -------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
+| **01** | Apresentação da Disciplina e Ecossistema Front-end      | [📄 PDF](Aulas/Aula%2001%20-%20Apresentação%20da%20Disciplina%20e%20Contextualização%20%281%29.pdf) | ❌⭕ Jogo da Velha<br>🧠 Memória Família | [🔗 Jogo da Velha](https://github.com/edilainesolde2024-blip/velha-x)<br>[🔗 Memória Família](https://github.com/edilainesolde2024-blip/memoria-familia) | [🚀 Jogo da Velha](https://velha-x.vercel.app/)<br>[🚀 Memória Família](https://memoria-familia.vercel.app/) |
+| **02** | Configuração do Ambiente de Desenvolvimento             |       [📄 PDF](Aulas/Aula%2002%20-%20Configuração%20do%20Ambiente%20de%20Desenvolvimento.pdf)       | 🎮 Jogo de Palavras                    |                                               [🔗 GitHub](https://github.com/edilainesolde2024-blip/react)                                               |                         [🚀 Vercel](https://react-aula2-7bprwiua0-solde1.vercel.app/)                        |
+| **03** | Responsividade e Ferramentas do Desenvolvedor           |             [📄 PDF](Aulas/Aula%2003%20-%20Projetos%20com%20Frameworks%20Front-end.pdf)             | 🌐 Projeto React                       |                                                                             —                                                                            |                            [🚀 Vercel](https://react-git-main-solde1.vercel.app/)                            |
+| **04** | Frameworks CSS                                          |                [📄 PDF](Aulas/Aula%2004%20-%20Consumindo%20APIs%20no%20Front-end.pdf)               | 🔗 API Node                            |                                              [🔗 GitHub](https://github.com/edilainesolde2024-blip/apinode)                                              |                           [🚀 Vercel](https://apinode-p7zn2wvjt-solde1.vercel.app/)                          |
+| **05** | Projeto Integrador (PII) – Planejamento da Interface    |                                                  —                                                  | —                                      |                                                                             —                                                                            |                                                       —                                                      |
+| **06** | Introdução aos Frameworks Front-end                     |                                                  —                                                  | —                                      |                                                                             —                                                                            |                                                       —                                                      |
+| **07** | Estrutura de um Projeto Front-end                       |                                                  —                                                  | —                                      |                                                                             —                                                                            |                                                       —                                                      |
+| **08** | Componentes e Propriedades                              |                                                  —                                                  | —                                      |                                                                             —                                                                            |                                                       —                                                      |
+| **09** | Projeto Integrador (PII) – Desenvolvimento da Interface |                                                  —                                                  | —                                      |                                                                             —                                                                            |                                                       —                                                      |
+| **10** | Estados e Eventos                                       |                                                  —                                                  | —                                      |                                                                             —                                                                            |                                                       —                                                      |
+| **11** | Rotas e Navegação                                       |                                                  —                                                  | —                                      |                                                                             —                                                                            |                                                       —                                                      |
+| **12** | Autoavaliação Institucional                             |                                                  —                                                  | —                                      |                                                                             —                                                                            |                                                       —                                                      |
+| **13** | Projeto Integrador (PII) – Integração dos Componentes   |                                                  —                                                  | —                                      |                                                                             —                                                                            |                                                       —                                                      |
+| **14** | Boas Práticas no Desenvolvimento Front-end              |                                                  —                                                  | —                                      |                                                                             —                                                                            |                                                       —                                                      |
+| **15** | Avaliação Integradora                                   |                                                  —                                                  | —                                      |                                                                             —                                                                            |                                                       —                                                      |
+| **16** | Publicação e Deploy de Aplicações                       |                                                  —                                                  | —                                      |                                                                             —                                                                            |                                                       —                                                      |
+| **17** | Preparação das Apresentações do Projeto                 |                                                  —                                                  | —                                      |                                                                             —                                                                            |                                                       —                                                      |
+| **18** | Bancas do Projeto Integrador e Autoavaliação Discente   |                                                  —                                                  | —                                      |                                                                             —                                                                            |                                                       —                                                      |
+| **19** | Tendências em Desenvolvimento Front-end                 |                                                  —                                                  | —                                      |                                                                             —                                                                            |                                                       —                                                      |
+| **20** | Revisão Geral e Encerramento da Disciplina              |                                                  —                                                  | —                                      |                                                                             —                                                                            |                                                       —                                                      |
 
 ---
 
 ## 🛠️ Tecnologias
 
-As tecnologias utilizadas nas atividades podem variar de acordo com o conteúdo trabalhado em cada aula.
-
-Entre elas:
-
 * HTML5
 * CSS3
 * JavaScript
-* Git
-* GitHub
-* Visual Studio Code
-
----
-
-## 📁 Organização
-
-A ideia deste repositório é funcionar como um **portfólio das atividades da disciplina**, organizando os projetos conforme as aulas forem realizadas.
-
-### 🟢 Aula 02 — React
-
-**Data:** 12/08/2026
-
-Nesta aula foi desenvolvido um projeto utilizando **React**, colocando em prática conceitos de desenvolvimento Front End com componentes e organização de uma aplicação.
-
-#### 🎮 Atividade — Jogo de Palavras
-
-Foi desenvolvido um **Jogo de Palavras** utilizando React como atividade prática da aula.
-
-O projeto foi desenvolvido com o objetivo de praticar a criação de interfaces interativas, organização dos componentes e utilização dos recursos do React.
-
-🔗 [Acessar código do projeto no GitHub](https://github.com/edilainesolde2024-blip/react)
-
-🚀 [Acessar projeto publicado na Vercel](https://vercel.com/solde1/react-aula2/BhgmMpm7XQS4eMGVjecFKfSpP3er)
-
----
-
-**Tecnologias utilizadas:**
-
 * React
-* JavaScript
-* HTML
-* CSS
+* Node.js
+* APIs
 * Git
 * GitHub
 * Vercel
-
----
-
-**Projeto:** Jogo de Palavras
-**Repositório:** [react](https://github.com/edilainesolde2024-blip/react)
-**Deploy:** [Vercel](https://vercel.com/solde1/react-aula2/BhgmMpm7XQS4eMGVjecFKfSpP3er)
-
-
-## 🎯 Objetivo
-
-Registrar minha evolução durante a disciplina de **Front End**, reunindo em um único local os projetos, exercícios e atividades desenvolvidos ao longo das aulas.
-
-Este repositório será atualizado continuamente conforme novas atividades forem realizadas.
+* Visual Studio Code
 
 ---
 
@@ -96,8 +46,10 @@ Este repositório será atualizado continuamente conforme novas atividades forem
 
 **Edilaine Paulino Solde**
 
-Estudante de Analise em Desenvolvimento de Sistemas - Unisenai - 2026
+Estudante de Análise e Desenvolvimento de Sistemas — UniSenai — 2026
+
+🔗 [GitHub](https://github.com/edilainesolde2024-blip)
 
 ---
 
-⭐ Repositório em construção — novas atividades serão adicionadas aula a aula.
+⭐ **Repositório em construção — novas atividades serão adicionadas conforme o andamento da disciplina.**
